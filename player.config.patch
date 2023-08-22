@@ -1,0 +1,3 @@
+[
+    { "op": "add", "path": "/genericScriptContexts/pat_removeswimming", "value": "/pat_removeswimming.lua" }
+]

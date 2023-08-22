@@ -1,0 +1,9 @@
+{
+  "version" : "1.0",
+  "author" : "PAT man",
+  "description" : "removes swimming physics\nyou just move normally in liquids\n\nocean planets are kindve just like, floating islands now. you will fall to your death and it's very funny\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n\n\nusing this with '[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1944652363]improved swim physics[/url]' completely breaks swimming you just kinda get stuck in the water forever\ni was gonna fix it but it's funnier if i dont i think",
+  "name" : "pat_removeswimming",
+  "friendlyName" : "removed swim physics!",
+  "steamContentId" : "3023923892",
+  "link" : "steam://url/CommunityFilePage/3023923892"
+}
